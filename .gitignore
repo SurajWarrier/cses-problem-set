@@ -1,1 +1,3 @@
 *.exe
+.vs/cses-problem-set/v16/.suo
+*.sqlite
